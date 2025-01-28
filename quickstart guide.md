@@ -64,6 +64,8 @@ Developer has to fill in labels for each row and columns.
  
 <img width="585" alt="image" src="https://github.com/user-attachments/assets/03946dfd-d2e8-47cb-a5c2-9dc65a8fa542" />
 
+For demo, see [How to add new tick-box grid question in Google Form](https://youtu.be/vXEOr6G7R8AP)
+
 #### multiple-cell grid
 Consists of one or many groups. Each group consists of one or many radio button. You can select at most one radio button in each group.
 
@@ -74,6 +76,8 @@ It will look like a box of radio buttons.
 Developer has to fill in labels for each row and columns. 
 
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/563b5359-b00a-4899-a79b-b02e3f26123a" />
+
+For demo, see [How to add new multiple-cell grid question in Google Form](https://youtu.be/xeX4MKR2-I8)
 
 #### linear scale
 Developer has to set the start point, end point, label for start point, and label for end point.
@@ -109,3 +113,12 @@ and when respondant clicks trailing icon of the textfield, it will pop up a date
 The respondant will look like this
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/3fd378ca-320e-42d3-b1f4-35b48882e6a8" />
+
+### add new image
+To insert new image, click the icon
+
+<img width="26" alt="image" src="https://github.com/user-attachments/assets/f28c9485-6229-460d-b45b-88fdf1388efc" />
+
+You can insert it in an existing question or create a new title and description and insert an image at same time.
+
+For demo, see [Create a new title and description and insert image at same time in Google Form](https://youtu.be/K4nEOHHbtmg)
