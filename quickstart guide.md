@@ -13,6 +13,7 @@ To create a new Google form, you have to
 ![image](https://github.com/user-attachments/assets/e1a848aa-7017-4eeb-9b08-070264b65332)
 
 ### Add new question
+Click this icon
 ![image](https://github.com/user-attachments/assets/0ccddc11-d554-4ca5-b23e-3271557af463)
 
 ### question type
