@@ -122,3 +122,34 @@ To insert new image, click the icon
 You can insert it in an existing question or create a new title and description and insert an image at same time.
 
 For demo, see [Create a new title and description and insert image at same time in Google Form](https://youtu.be/K4nEOHHbtmg)
+
+### change existing image
+To change an existing image,
+
+1. click left top of an image.
+2. Then it will show the hamburger icon
+<img width="32" alt="image" src="https://github.com/user-attachments/assets/d781a0e8-784c-4f0c-ad13-c4ca2c9d67d5" />
+on left top of the image, click it
+
+### settings
+#### responses
+##### allow responses editing
+To allow response editing, 
+
+1. select settings in menu tab.
+2. Under Setting -> Response section, toggle `allow responses editing`.
+
+For demo, see [How to allow response editing in Google Form](https://youtu.be/KS5r8_qxrhA)
+
+#### presentation
+##### show progress bar
+To show progress bar when despondant is filling the form,
+
+1. select settings in menu tab.
+2. Under Setting -> Presentation section, find `FORM PRESENTATION` part.
+3. In  `FORM PRESENTATION` part, toggle `show progress bar`.
+
+For demo, see [How to show progress bar of section when filling form in Google form](https://youtu.be/RTMCg8Z3y48)
+
+
+
