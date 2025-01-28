@@ -75,3 +75,16 @@ Take the above figure as example,
 respondant will see the following question.
 
 <img width="476" alt="image" src="https://github.com/user-attachments/assets/fb20fa3a-ba87-40ba-aba0-9b5e3dfe42ff" />
+
+#### date
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/228c7c46-4da1-4f97-9f86-a4f792c64733" />
+
+The respondant will look like this
+
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/97be1c98-b76b-48d8-abd9-58444dd68247" />
+
+and when respondant clicks trailing icon of the textfield, it will pop up a date picker.
+
+<img width="158" alt="image" src="https://github.com/user-attachments/assets/38257b91-32ad-43fe-bc7f-727fb8f84bf8" />
+
+
