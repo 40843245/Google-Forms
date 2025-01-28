@@ -52,9 +52,9 @@ Developer has to fill in labels for each row and columns.
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/563b5359-b00a-4899-a79b-b02e3f26123a" />
 
 #### linear scale
-Developer has to set the start point and end point.
+Developer has to set the start point, end point, label for start point, and label for end point.
+
 ![Untitled design](https://github.com/user-attachments/assets/31b19d4a-5d9c-4f1e-b5d2-039c2daad0b2)
 
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/3c8ca956-f41c-4883-9972-963d41c9f52e" />
-
 
