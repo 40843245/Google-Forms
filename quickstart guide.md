@@ -58,3 +58,10 @@ Developer has to set the start point, end point, label for start point, and labe
 
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/3c8ca956-f41c-4883-9972-963d41c9f52e" />
 
+Then respondant will see a label for start point and a columns with label [`<start-point>`,...,`<end-point>`] followed by a label for end point.
+
+Take the above figure as example, 
+
+respondant will see the following question.
+
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/fb20fa3a-ba87-40ba-aba0-9b5e3dfe42ff" />
