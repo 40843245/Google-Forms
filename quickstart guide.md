@@ -270,3 +270,14 @@ To show link to submit another response,
 2. Under Setting section -> `Presentation` section -> `AFTER SUBMISSION` subsection, toggle on `show link to submit another response`.
 
 <img width="549" alt="image" src="https://github.com/user-attachments/assets/7f30d8d7-2759-48aa-9873-d142d6c6524a" />
+
+### open project in AppScript
+To open project in AppScript,
+
+1. open Google Form,
+2. click the hamburger icon <img width="24" alt="image" src="https://github.com/user-attachments/assets/5e58f69f-7c39-4174-a5e7-26631503b3ad" />
+3. click AppScript option.
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/6af83b78-065f-4936-9258-c4b981c3d76e" />
+   
+For demo, see [How to open project in AppScript in Google Form](https://youtu.be/U1yF3HZVBbc)
