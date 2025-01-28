@@ -1,5 +1,7 @@
 # Google Forms
 ## quickstart guide
+To fully understand the terms, see [term list.md](https://github.com/40843245/Google-Forms/blob/main/term%20list.md) before reading this guide.
+
 ### create a new Google form
 To create a new Google form, you have to
 
@@ -23,9 +25,19 @@ To publish a Google form,
 
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/15901bc8-a3f3-42d9-84d2-dc6021c9b1db" />
 
+### set the permission.
+To set the permission when publish a Google form,
+
+1. Choose the permission you want in a popup window.
+2. Click `OK` button.
+
+For demo, see [Demo of create a new google form](https://youtu.be/zVZCrkL03TM)
+
 ### Add new question
 Click this icon
 ![image](https://github.com/user-attachments/assets/0ccddc11-d554-4ca5-b23e-3271557af463)
+
+For demo, see [Demo of create a new google form](https://youtu.be/zVZCrkL03TM)
 
 ### question type
 #### short text
