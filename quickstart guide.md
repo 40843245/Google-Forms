@@ -77,6 +77,7 @@ respondant will see the following question.
 <img width="476" alt="image" src="https://github.com/user-attachments/assets/fb20fa3a-ba87-40ba-aba0-9b5e3dfe42ff" />
 
 #### date
+
 <img width="580" alt="image" src="https://github.com/user-attachments/assets/228c7c46-4da1-4f97-9f86-a4f792c64733" />
 
 The respondant will look like this
@@ -87,4 +88,10 @@ and when respondant clicks trailing icon of the textfield, it will pop up a date
 
 <img width="158" alt="image" src="https://github.com/user-attachments/assets/38257b91-32ad-43fe-bc7f-727fb8f84bf8" />
 
+#### time
 
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/906608f9-15e7-404c-9b0b-02c960ff8c31" />
+
+The respondant will look like this
+
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/3fd378ca-320e-42d3-b1f4-35b48882e6a8" />
