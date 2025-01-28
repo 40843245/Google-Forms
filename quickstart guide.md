@@ -171,7 +171,26 @@ To duplication an item,
 
 For demo, see [How to duplicate question in Google Form](https://youtu.be/HEcrMgkF-5A)
 
-### settings
+### set point value for specific question
+> [!WARNING]
+> The functionality is only available only when the option `make it a quiz` is enabled.
+
+To set point value for specific question,
+
+1. enable `make it quiz` option (if not enabled yet)
+2. select the question you want to set.
+3. click the `Answer key` button (appear on the left bottom).
+
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/2f93a2a3-02ad-4b04-a96f-78394035506e" />
+
+4. enter a valid number on this field.
+5. click `Done` button to save the changes.
+
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/89fcf63d-29ae-4fb9-b535-ee7b9b4360d2" />
+
+For demo, see [How to set point value for each question in Google Form](https://youtu.be/ZyM1lDjMm_4)
+
+### settings tab
 #### make it a quiz
 To make a form a quiz (thus there are point for each questions),
 
@@ -180,8 +199,29 @@ To make a form a quiz (thus there are point for each questions),
 
 For demo, see [How to make this Google form as quiz](https://youtu.be/Pr8QmosdI3E)
 
-> [!NOTE]
-> The mode is only available only when the option `make it a quiz` is enabled.
+##### see points recieved for each questions
+> [!WARNING]
+> The functionality is only available only when the option `make it a quiz` is enabled.
+
+To make a respondant see points recieved for each questions and total points after submission,
+
+1. select settings in menu tab.
+2. Under Setting -> `make a form a quiz` title -> `RESPONDANT SETTINGS`, toggle on `Point values`.
+
+<img width="556" alt="image" src="https://github.com/user-attachments/assets/ca012133-fefc-44e6-b7c5-3871d2b36c22" />
+
+##### set default point value for new question
+> [!WARNING]
+> The functionality is only available only when the option `make it a quiz` is enabled.
+
+To set default point value for new question,
+
+1. select settings in menu tab.
+2. Under Setting -> `make a form a quiz` title -> `GLOBAL QUIZ DEFAULT`, enter a valid number on the textfield on `Default question point value` option.
+
+<img width="548" alt="image" src="https://github.com/user-attachments/assets/82029630-3892-4bab-850a-bd4f2aa3f41f" />
+
+For demo, see [How to set default point for each question in Google Form](https://youtu.be/NepZKAzLIaE)
 
 #### responses
 ##### allow responses editing
@@ -189,6 +229,8 @@ To allow response editing,
 
 1. select settings in menu tab.
 2. Under Setting -> Response section, toggle on `allow responses editing`.
+
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/23fbe1b9-1edf-4d19-af19-49afc186fa5c" />
 
 For demo, see [How to allow response editing in Google Form](https://youtu.be/KS5r8_qxrhA)
 
@@ -212,6 +254,8 @@ To shuffle the question order,
 
 <img width="559" alt="image" src="https://github.com/user-attachments/assets/f6016aef-5df6-4edf-885d-f647ed0e63d6" />
 
+For demo, see [How to shuffle the questions in Google Form](https://youtu.be/bKY39u_wyz4)
+
 ##### edit confirmation message
 
 1. select settings in menu tab.
@@ -219,4 +263,10 @@ To shuffle the question order,
 
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/0d015434-91a3-4b1f-9c86-c8aa6daea522" />
 
+##### show link to submit another response
+To show link to submit another response,
 
+1. select settings in menu tab.
+2. Under Setting section -> `Presentation` section -> `AFTER SUBMISSION` subsection, toggle on `show link to submit another response`.
+
+<img width="549" alt="image" src="https://github.com/user-attachments/assets/7f30d8d7-2759-48aa-9873-d142d6c6524a" />
