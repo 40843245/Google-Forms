@@ -22,10 +22,14 @@ Behaves like a group with one or more radio buttions. You can select at most one
 
 ![image](https://github.com/user-attachments/assets/7567ecce-44ab-4d31-82f9-5cc2532a9cdb)
 
+<img width="476" alt="image" src="https://github.com/user-attachments/assets/80dc9d41-8334-41eb-8f15-97eb357e000d" />
+
 #### checkbox
 Behaves like a group with one or more checkboxes. You can select more than one choice at same time (if you want)
 
 <img width="580" alt="image" src="https://github.com/user-attachments/assets/5f14bb21-88fc-4745-bcc9-e9143600c7b8" />
+
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/da13b66b-a05b-4428-8f1b-aae10ac38866" />
 
 
 #### drop-down list
