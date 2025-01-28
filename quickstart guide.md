@@ -30,12 +30,27 @@ Behaves like a group with many drop-down menu items. You can select at most one 
 ![image](https://github.com/user-attachments/assets/92ea49a2-387a-4323-a311-aa80d6585375)
 
 #### tick-box grid
-Consists of one or many groups. Each group consists of one or many checkboxs. You can select one or many item in each group (or even zero if it is not required).
+Consists of one or many groups. Each group consists of one or many checkboxes. You can select one or many item in each group (or even zero if it is not required).
 
-It will look like a box of grids.
+It will look like a box of checkboxes.
 
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/05f7c59d-f3ce-446d-98ca-801c569ecc07" />
 
-Developer can fill in labels for each row and columns. 
+Developer has to fill in labels for each row and columns. 
  
 <img width="585" alt="image" src="https://github.com/user-attachments/assets/03946dfd-d2e8-47cb-a5c2-9dc65a8fa542" />
+
+#### multiple-cell grid
+Consists of one or many groups. Each group consists of one or many radio button. You can select at most one radio button in each group.
+
+It will look like a box of radio buttons.
+
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/aa435ce9-ffb6-4d57-8450-2d730abfa46f" />
+
+Developer has to fill in labels for each row and columns. 
+
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/563b5359-b00a-4899-a79b-b02e3f26123a" />
+
+#### linear scale
+
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/3c8ca956-f41c-4883-9972-963d41c9f52e" />
