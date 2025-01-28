@@ -18,9 +18,15 @@ Click this icon
 
 ### question type
 #### multiple choice
-Behaves like a group with radio buttions. You can select at most one choice at same time. 
+Behaves like a group with one or more radio buttions. You can select at most one choice at same time. 
 
 ![image](https://github.com/user-attachments/assets/7567ecce-44ab-4d31-82f9-5cc2532a9cdb)
+
+#### checkbox
+Behaves like a group with one or more checkboxes. You can select more than one choice at same time (if you want)
+
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/5f14bb21-88fc-4745-bcc9-e9143600c7b8" />
+
 
 #### drop-down list
 Behaves like a group with many drop-down menu items. You can select at most one item at same time.
