@@ -28,3 +28,14 @@ Behaves like a group with many drop-down menu items. You can select at most one 
 ![image](https://github.com/user-attachments/assets/eead2647-8099-41ee-bfbf-76b8c5b862d3)
 
 ![image](https://github.com/user-attachments/assets/92ea49a2-387a-4323-a311-aa80d6585375)
+
+#### tick-box grid
+Consists of one or many groups. Each group consists of one or many checkboxs. You can select one or many item in each group (or even zero if it is not required).
+
+It will look like a box of grids.
+
+<img width="498" alt="image" src="https://github.com/user-attachments/assets/05f7c59d-f3ce-446d-98ca-801c569ecc07" />
+
+Developer can fill in labels for each row and columns. 
+ 
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/03946dfd-d2e8-47cb-a5c2-9dc65a8fa542" />
