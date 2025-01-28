@@ -17,6 +17,20 @@ Click this icon
 ![image](https://github.com/user-attachments/assets/0ccddc11-d554-4ca5-b23e-3271557af463)
 
 ### question type
+#### short text
+
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/832f00a9-8939-40e0-b9f4-fc8ea1799028" />
+
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/efa82c52-2bdc-41c7-9dd6-b21d26170e13" />
+
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/1f15623a-5e11-4e67-ba3d-0c806b20e85f" />
+
+#### paragraph
+
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/084d5efb-45ae-49a5-876a-48803b98eac1" />
+
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/30c68501-14c0-41eb-9272-5afd2ab33f31" />
+
 #### multiple choice
 Behaves like a group with one or more radio buttions. You can select at most one choice at same time. 
 
