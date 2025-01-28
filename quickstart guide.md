@@ -179,6 +179,10 @@ To make a form a quiz (thus there are point for each questions),
 2. Under Setting section, toggle on `make it a quiz`.
 
 For demo, see [How to make this Google form as quiz](https://youtu.be/Pr8QmosdI3E)
+
+> [!NOTE]
+> The mode is only available only when the option `make it a quiz` is enabled.
+
 #### responses
 ##### allow responses editing
 To allow response editing, 
@@ -197,4 +201,22 @@ To show progress bar when respondant is filling the form,
 3. In  `FORM PRESENTATION` part, toggle on `show progress bar`.
 
 For demo, see [How to show progress bar of section when filling form in Google form](https://youtu.be/RTMCg8Z3y48)
+
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/244a9f27-2975-4e09-a223-7ba9fe5aee2f" />
+
+##### shuffle question order
+To shuffle the question order,
+
+1. select settings in menu tab.
+2. Under Setting section -> `Presentation` section -> `FORM PRESENTATION` subsection, toggle on `shuffle question order`.
+
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/f6016aef-5df6-4edf-885d-f647ed0e63d6" />
+
+##### edit confirmation message
+
+1. select settings in menu tab.
+2. Under Setting section -> `Presentation` section -> `AFTER SUBMISSION` subsection, click Edit button on the `Confirmation message` option.
+
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/0d015434-91a3-4b1f-9c86-c8aa6daea522" />
+
 
